@@ -1,6 +1,7 @@
-### Hi there 👋
 
-<!--
+![Group 11](https://user-images.githubusercontent.com/113760359/214878334-7af73848-867c-44b3-960f-047e87ee47ba.png)
+
+
 **hel-samet/hel-samet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
