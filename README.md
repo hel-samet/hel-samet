@@ -1,3 +1,5 @@
+<dotlottie-player src="" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+<dotlottie-player src="" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
 <h1 align="center">Hi 👋, I'm Helsamet</h1>
 <h3 align="center">A passionate frontend developer from Cambodia</h3>
 
