@@ -2,6 +2,9 @@
 <dotlottie-player src="" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
 <h1 align="center">Hi 👋, I'm Helsamet</h1>
 <h3 align="center">A passionate frontend developer from Cambodia</h3>
+![image](https://github.com/hel-samet/hel-samet/assets/113760359/0e176491-ab81-47df-93ee-fef39b1505b9)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hel-samet&label=Profile%20views&color=0e75b6&style=flat" alt="hel-samet" /> </p>
 
